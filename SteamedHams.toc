@@ -1,0 +1,7 @@
+## Interface: 100007
+## Title: SteamedHams
+## Notes: Shows the Steamed Hams DF Season 2 scores!
+## Author: Dingles
+## Version: 0.0.1
+
+SteamedHams.lua
